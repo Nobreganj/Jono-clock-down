@@ -7,7 +7,7 @@
 body {
 	background-image: url(https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzR8MTE1NjkxNXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 80%;
 	background-position: center center;
 	height: 100vh;
 	font-family: "Poppins", sans-serif;
