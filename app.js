@@ -3,9 +3,9 @@ const hours = document.getElementById('hours');
 const minutes = document.getElementById('minutes');
 const seconds = document.getElementById('seconds');
 
-const currentYear = new Date().getFullYear();
+const lastYear = new Date().getFullYear();
 
-const currentTearTime = new Date(`July 01 ${currentYear + 0} 00:00:00`);
+const newYearTime = new Date(`July 01 ${currentYear + 1} 00:00:00`);
 
 // Update countdown time
 function updateCountdown() {
