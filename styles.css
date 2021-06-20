@@ -30,7 +30,7 @@ h1 {
 .countdown {
 	display: flex;
 	transform: scale(2);
-	color: white;
+	color: orange;
 	text-shadow: 7px 1px 7px black, 0 0 25px blue, 0 0 51px darkblue;
 }
 
